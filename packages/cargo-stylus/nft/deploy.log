@@ -1,0 +1,17 @@
+Installing dependencies...
+➤ YN0000: ┌ Resolution step
+➤ YN0002: │ @typescript-eslint/type-utils@npm:8.8.1 [4ef9e] doesn't provide eslint (pfafea), requested by @typescript-eslint/utils
+➤ YN0002: │ burner-connector@npm:0.0.9 doesn't provide @tanstack/react-query (p5bd67), requested by @rainbow-me/rainbowkit
+➤ YN0002: │ burner-connector@npm:0.0.9 doesn't provide react (p19931), requested by @rainbow-me/rainbowkit
+➤ YN0002: │ burner-connector@npm:0.0.9 doesn't provide react-dom (p088c6), requested by @rainbow-me/rainbowkit
+➤ YN0002: │ burner-connector@npm:0.0.9 doesn't provide wagmi (pad561), requested by @rainbow-me/rainbowkit
+➤ YN0002: │ daisyui@npm:4.12.10 doesn't provide postcss (p8e18b), requested by postcss-js
+➤ YN0002: │ react-hot-toast@npm:2.4.1 [ef549] doesn't provide csstype (p2b204), requested by goober
+➤ YN0000: │ Some peer dependencies are incorrectly met; run yarn explain peer-requirements <hash> for details, where <hash> is the six-letter p-prefixed code
+➤ YN0000: └ Completed in 0s 285ms
+➤ YN0000: ┌ Fetch step
+➤ YN0000: └ Completed in 2s 151ms
+➤ YN0000: ┌ Link step
+➤ YN0000: └ Completed in 2s 23ms
+➤ YN0000: Done with warnings in 4s 547ms
+Deploying contract...
